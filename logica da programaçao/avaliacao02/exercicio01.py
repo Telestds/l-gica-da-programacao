@@ -1,1 +1,0 @@
-print("Hoje é o dia perfeito para dar o primeiro passo.\n O sucesso é a soma de pequenos esforços repetidos dia após dia.")
