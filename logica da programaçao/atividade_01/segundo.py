@@ -1,0 +1,7 @@
+numero1 = int(input("digite o primeiro número:"))
+numero2 = int(input("digite o segundo número:"))
+print(numero1+numero2)
+print(type(numero1))
+idade1 = input("digite a idade:")
+preco2 = float(input("digite o preço:"))
+print(f"A idade digitada é:{idade1} e o preco é R$:{preco2+34}")
